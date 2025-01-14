@@ -1,0 +1,18 @@
+.rosita{
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.tamano{
+    font-size: 24px;
+}
+
+.bold{
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+#azul{
+    color: blue;
+    font-size: 36px;
+}
